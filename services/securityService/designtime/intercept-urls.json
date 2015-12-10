@@ -1,0 +1,1 @@
+[{"urlPattern":"/pages/Main/**","permission":"Role","roles":["adminrole"],"httpMethod":null},{"urlPattern":"/pages/Page/**","permission":"Role","roles":["userrole"],"httpMethod":null}]
